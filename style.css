@@ -371,25 +371,25 @@ div.core-products .products .container-text h3, div.core-products .products .con
 }
 
 div.pet-supplies {
-    background-image: url(images/rrC2ux8arHhyzrn4pxirVqP8.png);
+    background-image: url(images/pet-supplies-new.jpg);
     background-size: cover;
     background-repeat: none;
 }
 
 div.beauty {
-    background-image: url(images/rqf4k9sMDSDOFar0pJajLuJvC8.png);
+    background-image: url(images/beauty-new.jpg);
     background-size: cover;
     background-repeat: none;
 }
 
 div.tools {
-    background-image: url(images/21d775nQtzS85ZEC0uG9MPVM0.png);
+    background-image: url(images/home-tools-new.jpg);
     background-size: cover;
     background-repeat: none;
 }
 
 div.appliances {
-    background-image: url(images/gcsGfbZrIlUZpPCCZYuNgmlvM_1.png);
+    background-image: url(images/appliances-new.jpg);
     background-size: cover;
     background-repeat: none;
 }
@@ -1265,10 +1265,8 @@ footer .rrss:hover {
     footer .right a.rrss {
         transform: scale(1.2);
     }
+    
+    footer p{
+        text-align: center;
+    }
 }
-
-
-
-
-
-
